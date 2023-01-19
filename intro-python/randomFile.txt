@@ -1,0 +1,5 @@
+hola soy un archivo de texto plano
+
+a line
+a line 2
+the last lineThis is a new line at the end
